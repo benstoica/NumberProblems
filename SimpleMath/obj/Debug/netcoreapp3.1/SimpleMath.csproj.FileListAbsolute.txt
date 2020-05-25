@@ -1,0 +1,13 @@
+F:\Projects\NumberProblems\NumberProblems\SimpleMath\bin\Debug\netcoreapp3.1\SimpleMath.exe
+F:\Projects\NumberProblems\NumberProblems\SimpleMath\bin\Debug\netcoreapp3.1\SimpleMath.deps.json
+F:\Projects\NumberProblems\NumberProblems\SimpleMath\bin\Debug\netcoreapp3.1\SimpleMath.runtimeconfig.json
+F:\Projects\NumberProblems\NumberProblems\SimpleMath\bin\Debug\netcoreapp3.1\SimpleMath.runtimeconfig.dev.json
+F:\Projects\NumberProblems\NumberProblems\SimpleMath\bin\Debug\netcoreapp3.1\SimpleMath.dll
+F:\Projects\NumberProblems\NumberProblems\SimpleMath\bin\Debug\netcoreapp3.1\SimpleMath.pdb
+F:\Projects\NumberProblems\NumberProblems\SimpleMath\obj\Debug\netcoreapp3.1\SimpleMath.csprojAssemblyReference.cache
+F:\Projects\NumberProblems\NumberProblems\SimpleMath\obj\Debug\netcoreapp3.1\SimpleMath.csproj.CoreCompileInputs.cache
+F:\Projects\NumberProblems\NumberProblems\SimpleMath\obj\Debug\netcoreapp3.1\SimpleMath.AssemblyInfoInputs.cache
+F:\Projects\NumberProblems\NumberProblems\SimpleMath\obj\Debug\netcoreapp3.1\SimpleMath.AssemblyInfo.cs
+F:\Projects\NumberProblems\NumberProblems\SimpleMath\obj\Debug\netcoreapp3.1\SimpleMath.dll
+F:\Projects\NumberProblems\NumberProblems\SimpleMath\obj\Debug\netcoreapp3.1\SimpleMath.pdb
+F:\Projects\NumberProblems\NumberProblems\SimpleMath\obj\Debug\netcoreapp3.1\SimpleMath.genruntimeconfig.cache
